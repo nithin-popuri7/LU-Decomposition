@@ -30,7 +30,7 @@ print(U)
 ```
 
 ## Output:
-![lu decomposition]()
+![Github logo](LUD.png)
 
 
 ## Result:
