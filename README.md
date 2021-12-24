@@ -44,7 +44,7 @@ print(x)
 ### Problem 1:
 ![Github logo](LUD.png)
 ### Problem 2:
-![Github logo](lud 2.png)
+![Github logo](lude.png)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
