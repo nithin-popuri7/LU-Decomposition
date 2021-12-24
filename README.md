@@ -14,7 +14,7 @@ To write a program to find the LU Decomposition of a matrix.
 4. print the required values.
 
 ## Program:
-To print L and U matrix
+###To print L and U matrix
 ```
 /*
 Program to find the LU Decomposition of a matrix.
@@ -31,11 +31,9 @@ print(U)
 To print X matrix (solution to the equations)
 ```
 /*
-Program to solve the given matrix using LU Decompostion.
+###Program to solve the given matrix using LU Decompostion.
 Developed by: Popuri Siva Naga Nithin
 RegisterNumber: 21003942
-*/
-```
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
 a = eval(input())
@@ -43,11 +41,12 @@ b = eval(input())
 lu,piv = lu_factor(a)
 x= lu_solve((lu,piv),b)
 print(x)
-
+```
 ## Output:
-### Problem 1
+### Problem 1:
 ![Github logo](LUD.png)
-### Problem 2
+
+### Problem 2:
 ![Github logo](lud 2.png)
 
 
