@@ -21,7 +21,6 @@ Program to find the LU Decomposition of a matrix.
 Developed by: Popuri Siva Naga NIthin
 RegisterNumber: 21003942
 */
-```
 import numpy as np
 from scipy.linalg import lu
 a=eval(input())
@@ -45,7 +44,6 @@ print(x)
 ## Output:
 ### Problem 1:
 ![Github logo](LUD.png)
-
 ### Problem 2:
 ![Github logo](lud 2.png)
 
